@@ -1,4 +1,9 @@
+# Description
+Пэт-проект для портфолио с полноценным функционалом
+Какие технологии будут использованы: Axios, Tailwindcss, Redux, Firebase, Git
+В дальнейшем весь проект будет перенесен на Typescript
 # Design project in Figma
+Дизайн сайта
 (https://www.figma.com/file/QuGYfLDW3ZFBjbrllWRdil/Architecture-Webflow-Website-Template-(Community)?node-id=3%3A5&t=fewkrmLRyfDjzltI-1)
 
 # Getting Started with Create React App
